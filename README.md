@@ -24,12 +24,19 @@ It showcases my education, technical skills, and projects as an **Information Te
 
 ---
 
+## 📂 Project Structure
+
+resume/
+│
+├── index.html # Main resume page
+├── style.css # Styling for the page
+├── images/ # (optional) Profile or logo images
+└── README.md # Project description
 
 ---
 
 ## 💻 Live Demo
-🔗 [View Resume Website](https://S-Gijbile-19.github.io/resume/)  
-*(Replace the link with your actual GitHub Pages link once hosted)*  
+https://S-Gijbile-19.github.io/resume/
 
 ---
 
@@ -42,7 +49,3 @@ It showcases my education, technical skills, and projects as an **Information Te
 ---
 
 ⭐ *Feel free to fork or clone this project if you’d like to use it as a resume template!*
-
-
-## 📂 Project Structure
-
