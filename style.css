@@ -3,6 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto ;
+    background: #f2f4f7;
 }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
 header {
     text-align: center;
     margin: auto 2em;
+    background: #eef2fe;
 }
 
 
@@ -61,9 +63,12 @@ hr {
 h1, h2, h3 {
     font-weight: 100;
     margin-bottom: 0;
+    color: #003366;
 }
 
-
+p{
+  color: #003366;   
+}
 #mainLeft {
     border-right: 1px solid lightgray;
 }
